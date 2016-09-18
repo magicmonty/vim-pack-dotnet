@@ -1,0 +1,9 @@
+[submodule "start/fsharp-vim"]
+	path = start/fsharp-vim
+	url = https://github.com/kongo2002/fsharp-vim.git
+[submodule "start/vim-csharp"]
+	path = start/vim-csharp
+	url = https://github.com/OrangeT/vim-csharp.git
+[submodule "start/omnisharp-vim"]
+	path = start/omnisharp-vim
+	url = https://github.com/OmniSharp/omnisharp-vim
