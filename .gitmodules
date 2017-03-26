@@ -6,3 +6,7 @@
 	path = start/vim-fsharp
 	url = https://github.com/fsharp/vim-fsharp.git
   ignore = dirty
+[submodule "opt/omnisharp-vim"]
+	path = opt/omnisharp-vim
+	url = https://github.com/OmniSharp/omnisharp-vim.git
+  ignore = dirty
