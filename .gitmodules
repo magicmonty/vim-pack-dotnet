@@ -10,3 +10,6 @@
 	path = opt/omnisharp-vim
 	url = https://github.com/OmniSharp/omnisharp-vim.git
   ignore = dirty
+[submodule "start/vim-helptags"]
+	path = start/vim-helptags
+	url = https://github.com/Traap/vim-helptags.git
