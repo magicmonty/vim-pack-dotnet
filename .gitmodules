@@ -13,3 +13,4 @@
 [submodule "start/vim-helptags"]
 	path = start/vim-helptags
 	url = https://github.com/Traap/vim-helptags.git
+  ignore = dirty
